@@ -64,7 +64,7 @@
 	</dependencies>
 
 	<build>
-		<defaultGoal>install</defaultGoal>
+		<defaultGoal>clean</defaultGoal>
 		<plugins>
 			<plugin>
 				<artifactId>maven-war-plugin</artifactId>
