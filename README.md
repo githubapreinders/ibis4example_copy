@@ -88,3 +88,7 @@ After modifying a project file:
 - cd .. ; mvn clean install ; cd example ; mvn jetty:run
 
 The jetty-maven-plugin requires Maven 3 and Java 1.7.
+
+And yet another comment
+
+
