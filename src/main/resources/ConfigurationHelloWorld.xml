@@ -16,7 +16,7 @@
 			<pipe
 				name="HelloWorld"
 				className="nl.nn.adapterframework.pipes.FixedResult"
-				returnString="Hello World for the 64h time, how far can you get? "
+				returnString="Hallo Jeroen het werkt "
 				>
 				<forward name="success" path="EXIT"/>
 			</pipe>
